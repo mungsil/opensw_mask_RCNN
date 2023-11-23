@@ -1,5 +1,5 @@
 # opensw_mask_RCNN
-[ 오픈소스 과제 1번 ]
+[ 오픈소스 과제 1번 ] based on https://github.com/matterport/Mask_RCNN
 
 
 ### 아나콘다 가상환경 생성
