@@ -15,7 +15,7 @@
 ![image](https://github.com/mungsil/opensw_mask_RCNN/assets/107127451/1837122d-e9f9-44a0-ae9a-33547d9b124e)
 
 ### 가중치 모델, 데이터셋 다운로드
-- mask_rcnn\model\balloon\datasets 경로에 제공받은 train, val에 대한 데이터셋을 저장
+- mask_rcnn\model\balloon\datasets 경로에 제공받은 데이터셋을 저장
 - 아래 가중치 모델 사용
 - https://github.com/matterport/Mask_RCNN/releases/download/v2.1/mask_rcnn_balloon.h5
 - https://github.com/matterport/Mask_RCNN/releases/download/v1.0/mask_rcnn_coco.h5
